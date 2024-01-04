@@ -3,6 +3,29 @@
 
 **2.1 Source Code Structure and Integration Strategy:**
 
+Data Extraction:
+
+Utilize the API to extract relevant data, such as orders, customers, products, etc.
+Implement pagination if the dataset is extensive.
+Data Transformation:
+
+Cleanse and transform the raw data into a format suitable for your data warehouse schema.
+Handle data types, null values, and any necessary translations.
+Incremental Updates:
+
+Implement a mechanism to track and fetch only the new or modified records since the last extraction to minimize data transfer.
+Error Handling:
+
+Develop robust error-handling mechanisms to manage API rate limits, network issues, and potential API changes.
+Data Loading:
+
+Load the transformed data into the centralized data warehouse.
+
+Monitoring and Logging:
+
+Implement logging to track the ETL process and monitor for any anomalies.
+Set up alerts for potential failures or irregularities.
+
 **2.2 Database Schema Design for Data Warehouse:**
 
    Explanation:
