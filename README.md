@@ -8,6 +8,7 @@
    Explanation:
    
     -The schema is designed to maintain relationships between entities using foreign keys, facilitating easy navigation and joining of tables for data integration.
+    
     -This schema allows for efficient reporting on customer behavior, order details, product performance, and financial transactions.
     
     -The schema is normalized to reduce data redundancy, ensuring efficient storage and minimizing update anomalies.
