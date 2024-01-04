@@ -4,6 +4,7 @@
 **2.1 Source Code Structure and Integration Strategy:**
 
 **2.2 Database Schema Design for Data Warehouse:**
+
    Explanation:
     - The schema is designed to maintain relationships between entities using foreign keys, facilitating easy navigation and joining of tables for data integration.
     - This schema allows for efficient reporting on customer behavior, order details, product performance, and financial transactions.
