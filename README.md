@@ -7,14 +7,12 @@
 
    Explanation:
    
-    - The schema is designed to maintain relationships between entities using foreign keys, facilitating easy navigation 
-    and joining of tables for data integration.
-    - This schema allows for efficient reporting on customer behavior, order details, product performance, and financial transactions.
+    -The schema is designed to maintain relationships between entities using foreign keys, facilitating easy navigation and joining of tables for data integration.
+    -This schema allows for efficient reporting on customer behavior, order details, product performance, and financial transactions.
     
-    - The schema is normalized to reduce data redundancy, ensuring efficient storage and minimizing update anomalies.
+    -The schema is normalized to reduce data redundancy, ensuring efficient storage and minimizing update anomalies.
     
-    - Proper indexing, partitioning, and optimization strategies can be applied based on the specific queries 
-    and reporting patterns to enhance performance.
+    -Proper indexing, partitioning, and optimization strategies can be applied based on the specific queries and reporting patterns to enhance performance.
     
 The suggested schema aims to provide a foundation for a data warehouse that consolidates and integrates data from Haravan, allowing for effective reporting and analysis.
 Adjustments can be made based on specific business requirements and data characteristics.
