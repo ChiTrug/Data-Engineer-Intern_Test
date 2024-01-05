@@ -4,9 +4,7 @@
 
 **2.1 Source Code Structure and Integration Strategy:**
 
-FIle Bank_Data_Model_Physical_Export-2024-01-04_15-18.png
 
-![Bank_Data_Model_Physical_Export-2024-01-04_15-18](https://github.com/ChiTrug/Data-Engineer-Intern_Test/assets/125122891/6453843c-3461-4994-bf93-c94f1bb5674c)
 
 
 Data Extraction:
@@ -33,6 +31,10 @@ Implement logging to track the ETL process and monitor for any anomalies.
 Set up alerts for potential failures or irregularities.
 
 **2.2 Database Schema Design for Data Warehouse:**
+
+FIle Bank_Data_Model_Physical_Export-2024-01-04_15-18.png
+
+![Bank_Data_Model_Physical_Export-2024-01-04_15-18](https://github.com/ChiTrug/Data-Engineer-Intern_Test/assets/125122891/6453843c-3461-4994-bf93-c94f1bb5674c)
 
    Explanation:
    
