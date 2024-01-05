@@ -1,7 +1,10 @@
 **1. SQL**
+
    The solution is contained in the file SQL_BankTimo.sql, and the file Bank_Data_Model_Physical_Export_create.sql has been executed on PostgresSQL.
 
 **2.1 Source Code Structure and Integration Strategy:**
+
+FIle Bank_Data_Model_Physical_Export-2024-01-04_15-18.png
 
 Data Extraction:
 
