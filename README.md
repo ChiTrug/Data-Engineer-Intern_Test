@@ -6,6 +6,9 @@
 
 FIle Bank_Data_Model_Physical_Export-2024-01-04_15-18.png
 
+![Bank_Data_Model_Physical_Export-2024-01-04_15-18](https://github.com/ChiTrug/Data-Engineer-Intern_Test/assets/125122891/6453843c-3461-4994-bf93-c94f1bb5674c)
+
+
 Data Extraction:
 
 Utilize the API to extract relevant data, such as orders, customers, products, etc.
