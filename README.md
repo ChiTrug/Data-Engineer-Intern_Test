@@ -7,7 +7,7 @@
 
 
 
-Data Extraction:
+- Data Extraction:
 
 Utilize the API to extract relevant data, such as orders, customers, products, etc.
 Implement pagination if the dataset is extensive.
